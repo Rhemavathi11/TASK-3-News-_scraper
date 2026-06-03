@@ -43,17 +43,6 @@ To automate the collection of news headlines from a public website using Python 
 * File Handling
 * Exception Handling
 
----
-
-## Project Structure
-
-Task3_News_Scraper
-
-├── news_scraper.py
-
-├── headlines.txt
-
-└── README.md
 
 ---
 
@@ -120,17 +109,6 @@ Open headlines.txt to view the scraped headlines.
 
 ---
 
-## Learning Outcome
-
-Through this project, I learned:
-
-* HTTP Requests using Requests library
-* HTML Parsing using BeautifulSoup
-* Web Scraping basics
-* File Handling
-* Error Handling using try-except
-
----
 
 ## Author
 
